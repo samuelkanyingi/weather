@@ -1,0 +1,10 @@
+.weatherData {
+    color: blue;
+    
+}
+#loading {
+    display: none;
+}
+#container {
+    margin: 30px;
+}
